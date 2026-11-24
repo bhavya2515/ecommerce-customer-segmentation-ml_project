@@ -1,0 +1,6 @@
+{
+  "name": "RFM & K-Means Customer Segmentation",
+  "description": "End-to-end e-commerce customer segmentation platform using RFM analysis, quantile scoring, and K-Means clustering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
